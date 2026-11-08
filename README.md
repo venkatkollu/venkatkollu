@@ -8,22 +8,32 @@
 
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=venkatkollu&theme=github-dark&mode=dark" alt="venkatkollu's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=venkatkollu&theme=nightowl&hide_border=true&cache_seconds=86400" alt="venkatkollu's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=venkatkollu&show_icons=true&theme=github_dark&hide_border=true" alt="venkatkollu's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=venkatkollu&theme=nightowl&hide_border=true" alt="venkatkollu's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=venkatkollu&theme=github-dark&mode=dark" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=venkatkollu&theme=github-dark&mode=dark" alt="Kollu Venkat's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=venkatkollu&theme=github-dark&mode=dark" alt="venkatkollu's Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatkollu&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venkatkollu&theme=onedark&no-frame=true&column=5&row=2" alt="Kollu Venkat's GitHub Trophies" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatkollu&theme=github-dark&hide_border=true" alt="venkatkollu's Activity Graph" width="100%" />
+</p>
+
+<!-- Optional: Snake animation (requires a one-time GitHub Action setup) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venkatkollu/venkatkollu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venkatkollu/venkatkollu/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/venkatkollu/venkatkollu/output/github-snake.svg" />
+  </picture>
+</p>
 
 
 ## 🛠️ Languages & Tools
@@ -50,16 +60,6 @@
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=venkatkollu&theme=github-dark&mode=dark&style=snake" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=venkatkollu&theme=github-dark&mode=dark&style=snake" />
-  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=venkatkollu&theme=github-dark&mode=dark&style=snake" />
-</picture>
-
-
-
 <div align="center">
-  <!---->
+  <sub>Built with open-source components: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>, <a href="https://github.com/ryo-ma/github-profile-trophy">github-profile-trophy</a>, <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">activity-graph</a>, and <a href="https://github.com/Platane/snk">snk</a>.</sub>
 </div>
-
-<p align="center"><sub>Kollu Venkat · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
